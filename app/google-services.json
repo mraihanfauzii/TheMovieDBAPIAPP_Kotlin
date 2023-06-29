@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "723432020640",
+    "project_id": "mrfmovie-6de10",
+    "storage_bucket": "mrfmovie-6de10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723432020640:android:53cc23474705b3300a07c5",
+        "android_client_info": {
+          "package_name": "com.example.mrfmovie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723432020640-1s0qjpib2n7qn9la91ok3jhhf8fiudco.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy0-5fKkXg0is_j01gDu5QTbIn89DgsbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723432020640-1s0qjpib2n7qn9la91ok3jhhf8fiudco.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
