@@ -1,7 +1,7 @@
 package com.example.mrfmovie.api
 
-import com.example.mrfmovie.response.DetailsMovieResponse
-import com.example.mrfmovie.response.MovieListResponse
+import com.example.mrfmovie.api.response.DetailsMovieResponse
+import com.example.mrfmovie.api.response.MovieListResponse
 import retrofit2.Call
 import retrofit2.http.GET
 import retrofit2.http.Path

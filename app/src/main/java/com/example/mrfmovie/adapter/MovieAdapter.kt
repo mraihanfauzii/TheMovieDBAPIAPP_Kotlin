@@ -9,11 +9,10 @@ import androidx.recyclerview.widget.DiffUtil
 import androidx.recyclerview.widget.RecyclerView
 import coil.load
 import coil.size.Scale
-import com.example.mrfmovie.DetailsMovieActivity
+import com.example.mrfmovie.ui.DetailsMovieActivity
 import com.example.mrfmovie.R
 import com.example.mrfmovie.databinding.ItemRowBinding
-import com.example.mrfmovie.response.MovieListResponse
-import com.example.mrfmovie.response.Result
+import com.example.mrfmovie.model.Result
 import com.example.mrfmovie.utils.Constants.POSTER_BASEURL
 
 class MovieAdapter : RecyclerView.Adapter<MovieAdapter.ViewHolder>() {

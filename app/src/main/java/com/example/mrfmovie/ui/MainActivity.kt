@@ -1,13 +1,12 @@
-package com.example.mrfmovie
+package com.example.mrfmovie.ui
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import com.example.mrfmovie.databinding.ActivityMainBinding
 
 import android.content.Intent
+import com.example.mrfmovie.R
 import com.example.mrfmovie.adapter.ViewPagerAdapter
-import com.example.mrfmovie.fragment.HomeFragment
-import com.example.mrfmovie.fragment.ProfileFragment
 import com.google.firebase.auth.FirebaseAuth
 
 class MainActivity : AppCompatActivity() {

@@ -1,4 +1,4 @@
-package com.example.mrfmovie.response
+package com.example.mrfmovie.model
 
 data class Result(
     val adult: Boolean,

@@ -1,4 +1,9 @@
-package com.example.mrfmovie.response
+package com.example.mrfmovie.api.response
+
+import com.example.mrfmovie.model.Genre
+import com.example.mrfmovie.model.ProductionCompany
+import com.example.mrfmovie.model.ProductionCountry
+import com.example.mrfmovie.model.SpokenLanguage
 
 data class DetailsMovieResponse(
     val adult: Boolean,

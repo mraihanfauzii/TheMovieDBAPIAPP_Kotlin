@@ -1,4 +1,4 @@
-package com.example.mrfmovie.response
+package com.example.mrfmovie.model
 
 data class ProductionCountry(
     val iso_3166_1: String,

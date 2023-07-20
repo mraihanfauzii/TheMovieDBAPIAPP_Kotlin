@@ -1,4 +1,4 @@
-package com.example.mrfmovie.response
+package com.example.mrfmovie.model
 
 data class ProductionCompany(
     val id: Int,

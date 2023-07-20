@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     android:background="#181818"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    tools:context=".fragment.ProfileFragment">
+    tools:context=".ui.ProfileFragment">
 
     <androidx.cardview.widget.CardView
         android:layout_width="350dp"

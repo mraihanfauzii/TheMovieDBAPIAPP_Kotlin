@@ -1,4 +1,6 @@
-package com.example.mrfmovie.response
+package com.example.mrfmovie.api.response
+
+import com.example.mrfmovie.model.Result
 
 data class MovieListResponse(
     val page: Int,

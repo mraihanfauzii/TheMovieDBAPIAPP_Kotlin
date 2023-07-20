@@ -1,4 +1,4 @@
-package com.example.mrfmovie.response
+package com.example.mrfmovie.model
 
 data class SpokenLanguage(
     val english_name: String,

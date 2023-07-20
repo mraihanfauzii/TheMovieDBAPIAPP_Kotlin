@@ -1,4 +1,4 @@
-package com.example.mrfmovie
+package com.example.mrfmovie.ui
 
 import android.app.ProgressDialog
 import android.content.Intent
@@ -8,6 +8,7 @@ import android.widget.Button
 import android.widget.EditText
 import android.widget.Toast
 import android.widget.Toast.LENGTH_SHORT
+import com.example.mrfmovie.R
 import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.auth.ktx.userProfileChangeRequest
 
@@ -44,7 +45,7 @@ class RegisterActivity : AppCompatActivity() {
         progressDialog.setMessage("Sedang Memproses")
 
         btnLogin.setOnClickListener{
-            startActivity(Intent(this,LoginActivity::class.java))
+            startActivity(Intent(this, LoginActivity::class.java))
             finish()
         }
 
